@@ -4,6 +4,8 @@
 	<classpathentry kind="src" path="Assignment 2"/>
 	<classpathentry excluding="_restricted_data_structures/|_restricted_data_structures/" including="StackImplementation.java|StackMethods.java" kind="src" path="Assignment 3"/>
 	<classpathentry kind="src" path="Assignment 1"/>
+	<classpathentry kind="src" path="Assignment 4"/>
+	<classpathentry kind="src" path="Assignment 5"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

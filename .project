@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Assignment 6/BubbleSort.java</name>
+			<type>1</type>
+			<location>C:/Users/Josh/OneDrive/Documents/eclipse-workspace/Bubble Sort/src/BubbleSort.java</location>
+		</link>
+		<link>
+			<name>Assignment 6/MainBubbleSort.java</name>
+			<type>1</type>
+			<location>C:/Users/Josh/OneDrive/Documents/eclipse-workspace/Bubble Sort/src/MainBubbleSort.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>

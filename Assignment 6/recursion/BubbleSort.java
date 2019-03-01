@@ -4,7 +4,8 @@ public class BubbleSort
 {
  
  public int[] bubble_srt(int array[]) {
-	 
+	return array;
+
  }
  
  	 int array [];
@@ -15,17 +16,21 @@ public class BubbleSort
 			for (j = 0; j < array.length - 1 - i; j++) {
 				
 			}
-				if (array[j] > array[j + 1]) {
-					temp = array[j];
-					array[j] = array[j + 1];
-					array[j + 1] = temp;
-					
-					}
-		}}
+			
+									
+			if (array[j] > array[j + 1]) 
+				temp = array[j];
+				array[j] = array[j + 1];
+				array[j + 1] = temp;
+		}
+		
+		
+		 
+	 }
+		
 
  
-		return array;
-
+		
 	private static void swapNumbers(int i, int j, int[] array) {
 	        int temp = array[j];
 

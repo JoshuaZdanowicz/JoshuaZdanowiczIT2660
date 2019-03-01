@@ -38,4 +38,8 @@ public class BubbleSort
 
 	        array[i] = temp;
 	    }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5002fcb55e17c2d143a31b7b7e7dfef36c883f79

@@ -29,10 +29,17 @@ public class MainBubbleSort  {
 
 	// Method to output an array of integers
 	 public static void printNumbers(int[] input) {
+<<<<<<< HEAD
 		 
+=======
+>>>>>>> 5002fcb55e17c2d143a31b7b7e7dfef36c883f79
 	 for (int i = 0; i < input.length; i++) {
 	 System.out.print(input[i] + ", ");
 	 }
 	 System.out.println("\n");
 	 }
+<<<<<<< HEAD
 	}
+=======
+	}
+>>>>>>> 5002fcb55e17c2d143a31b7b7e7dfef36c883f79

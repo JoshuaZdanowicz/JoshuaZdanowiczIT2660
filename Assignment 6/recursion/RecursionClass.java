@@ -6,14 +6,8 @@ public class RecursionClass {
 		
 		RecursionClass recursionTool = new RecursionClass();
 		
-		// Demonstrate what a triangular number is
-		// Triangular numbers can be visualized as triangles
-		// Equals itself plus every number before it to 1
-		// TN of 5 = 5+4+3+2+1
-		
 		recursionTool.calculateSquaresToPrint(10);
 		
-		System.out.println("\nTriangular Number: " + recursionTool.getTriangularNum(3) + "\n");
 		
 		System.out.println("GET TRIANGULAR NUMBER");
 		
@@ -25,32 +19,11 @@ public class RecursionClass {
 		
 	}
 	
-	// Calculate triangular number not using recursion
 	
-	public int getTriangularNum(int number){
-		
-		int triangularNumber = 0;
-
-		while(number > 0){
-			
-			triangularNumber = triangularNumber + number;
-			number--;
-			
-		}
-		
-		// If number equals 3, you find TN by adding 3+2+1 = 6
-		
-		return triangularNumber;
-		
-	}
 	
 	// Calculate triangular number using recursion
 	
 	public int getTriangularNumR(int number){
-		
-		// Every recursive method must have a condition that
-		// leads to the method no longer making another method
-		// call on itself. This is known as the base case
 		
 		System.out.println("Method " + number);
 		

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="Assignment 2"/>
-	<classpathentry excluding="_restricted_data_structures/|_restricted_data_structures/" including="StackImplementation.java|StackMethods.java" kind="src" path="Assignment 3"/>
+	<classpathentry kind="src" path="Assignment 3"/>
 	<classpathentry kind="src" path="Assignment 1"/>
 	<classpathentry kind="src" path="Assignment 4"/>
 	<classpathentry kind="src" path="Assignment 6"/>

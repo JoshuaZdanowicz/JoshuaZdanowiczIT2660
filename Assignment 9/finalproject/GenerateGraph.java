@@ -1,3 +1,5 @@
+//NON WORKING ATYEMPT, SEE README FOR NOTES
+
 package finalproject;
 
 import java.util.Random;
